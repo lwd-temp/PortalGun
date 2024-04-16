@@ -1,4 +1,4 @@
-PortalGun
+Portal Gun
 =========
 Description:
 -----
